@@ -1,0 +1,20 @@
+{
+  "name": "check-airdrop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supercharge/promise-pool": "^3.1.0",
+    "node-fetch": "^3.3.2",
+    "vite-node": "^1.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.7"
+  }
+}
