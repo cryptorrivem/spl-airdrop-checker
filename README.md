@@ -1,5 +1,11 @@
 # Airdrop check
 
+## Building the wallets list
+
+Create a `wallets.output` file with each pubkey you want to check (one per line)
+
+## Getting wallets from filesystem
+
 First scan for wallets in your filesystem. You can use the following regex for VS Code to find them:
 
 Search: `^\[\d{1,3},`
