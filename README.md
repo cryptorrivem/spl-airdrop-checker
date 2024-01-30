@@ -33,6 +33,10 @@ This will traverse the `wallets.txt` and run the `solana address` command to get
 
 I'll be adding upcoming endpoints to check which wallets are elegible. Below is a list to use for checking
 
+## JUP (JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN)
+
+`npx vite-node airdrops/jup.ts -- wallets.output`
+
 ## WEN (WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk)
 
 `npx vite-node airdrops/wen.ts -- wallets.output`
